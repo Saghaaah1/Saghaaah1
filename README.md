@@ -37,15 +37,14 @@ Includes a control and monitoring interface.
 
 ---
 
-<h3 align="center">🤝 Connect With Me</h3>
+---
+
+<h3 align="center">Connect With Me</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/sara-el-bari-65645929b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sara.elbari@imt-atlantique.fr">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="www.linkedin.com/in/sara-el-bari-65645929bi" target="_blank">LinkedIn</a> |
+  <a href="mailto:sara.elbari@imt-atlantique.fr">sara.elbari@imt-atlantique.fr</a> |
+  <a href="mailto:saraelbari2@gmail.com">sara.elbari.pro@gmail.com</a>
 </p>
 
 ---
