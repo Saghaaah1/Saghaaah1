@@ -42,9 +42,9 @@ Includes a control and monitoring interface.
 <h3 align="center">Connect With Me</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/sara-el-bari-65645929b" target="_blank">LinkedIn</a> |
-  <a href="mailto:sara.elbari@imt-atlantique.fr">sara.elbari@imt-atlantique.fr</a> |
-  <a href="mailto:saraelbari2@gmail.com">sara.elbari.pro@gmail.com</a>
+  <a href="www.linkedin.com/in/sara-el-bari-65645929b" target="www.linkedin.com/in/sara-el-bari-65645929b">LinkedIn</a> |
+  <a href="mailto:sara.el-bari@imt-atlantique.fr">sara.el-bari@imt-atlantique.fr</a> |
+  <a href="mailto:saraelbari2@gmail.com">saraelbari2@gmail.com</a>
 </p>
 
 ---
