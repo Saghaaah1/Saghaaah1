@@ -1,10 +1,12 @@
-# Heyy, I'm Sara El Bari
+# Heyy, I'm Sara El Bari 
 
-# Final-year engineering student **(M.Eng.)** @ IMT Atlantique                                                                                                                         Academic exchange @ Shanghai Jiao Tong University, in partnership with École Polytechnique
-**Head of Communication** @ [KRYPTOSPHERE](https://kryptosphere.fr)
+**Final-year engineering student (M.Eng.) @ IMT Atlantique**  
+**Academic exchange @ Shanghai Jiao Tong University**, in partnership with **École Polytechnique**  
+**Head of Communication @ [KRYPTOSPHERE](https://kryptosphere.fr)**
 
-**Machine Learning | Deep Learning | Computer Vision | Multimodal AI | LLMs | Physics-Informed Neural Networks | MLOps| NLP | Healthcare| RAG**
-
+**Machine Learning · Deep Learning · Computer Vision · Multimodal AI**  
+**LLMs · NLP · RAG · AI Safety · AI for Healthcare**  
+**Physics-Informed Neural Networks · Stochastic Modeling · MLOps**
 ---
 
 ### Featured Projects
