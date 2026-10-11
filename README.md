@@ -15,12 +15,22 @@
 A **hybrid AI pipeline** combining **Transformer-based NLP**, **transfer learning**, and **deep learning** to identify influencers among French Twitter accounts.
 Fuses **fine-tuned CamemBERT language representations** with **behavioral feature engineering** and **ensemble learning**, achieving a **0.857 public leaderboard score** with **leakage-free user-level validation**.
 
+#### [LLaVA — Computer Vision, Multimodal AI & Bias Mitigation](https://github.com/Saghaaah1/Llava-bias-safety-study) *(Shanghai Jiao Tong University - 2026)*
+
+Probing and mitigating **racial bias** in **vision-language models**, from **CLIP** visual embeddings to **Vicuna’s** language representations.
+Combines representation learning analysis, **INLP debiasing**, and inference-time interventions, assessed through counterfactual audits and fairness–utility benchmarking.
+
 #### [Physics-Informed Neural Networks (PINNs) — AI for Fluid Flow Prediction](https://github.com/Saghaaah1/Physics-informed-neural-darcy) *(Shanghai Jiao Tong University - 2026)*
 
 A deep learning framework comparing **Physics-Informed Neural Networks (PINNs)** and **Fourier Neural Operators (FNO)** for **fluid pressure prediction in heterogeneous soil**.
 Explores physics-informed learning, neural operators, and zero-shot resolution transfer, evaluating prediction accuracy, computational cost, and robustness to varying permeability.
 
-#### [End-to-End Spam Detection — NLP & MLOps] *(IMT Atlantique - 2025)*
+#### [Probabilistic Machine Learning — Gaussian Processes & Graph Ranking] (https://github.com/Saghaaah1/Probabilit-s-pour-le-Machine-Learning) *(Shanghai Jiao Tong University - 2026)*
+
+Explores **probabilistic modeling**, **Gaussian Process regression**, and Monte Carlo simulation through three applied projects.
+Predicts airfoil noise using kernel methods and hyperparameter optimization, identifies influential network nodes with PageRank and random walks, and investigates Gaussian convergence against theoretical bounds.
+
+#### [End-to-End Spam Detection — NLP & MLOps] (https://github.com/Saghaaah1/End-to-End-Spam-Detection-Pipeline-for-SMS-and-Email) *(IMT Atlantique - 2025)*
 
 A modular **NLP pipeline** detecting **spam** in **SMS** and **E-mail** through text preprocessing, Bag-of-Words vectorization, and supervised learning.
 Integrates MLflow experiment tracking, cross-domain evaluation, and reproducible ML workflows to assess performance and generalization across messaging domains.
