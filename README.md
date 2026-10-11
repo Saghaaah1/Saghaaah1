@@ -1,10 +1,10 @@
 # Heyy, I'm Sara El Bari
 
-**M.Eng. in Artificial Intelligence and Health** – IMT Atlantique  
-**B.Sc. in Biology, Physics & Chemistry** – University of Western Brittany  
+Final-year engineering student **(M.Eng.)** @ IMT Atlantique 
+Academic exchange @ Shanghai Jiao Tong University, in partnership with École Polytechnique
 **Head of Communication** @ [KRYPTOSPHERE](https://kryptosphere.fr)
 
-**Data Science | Artificial Intelligence | Machine Learning | RAG | LLMs | Optimization | MLOps| Healthcare| Human Anatomy**
+**Machine Learning | Deep Learning | Computer Vision | Multimodal AI | LLMs | Physics-Informed Neural Networks | MLOps| NLP | Healthcare| RAG **
 
 ---
 
