@@ -10,6 +10,7 @@
 
 ### Featured Projects
 
+
 ### [Stochastic Lotka–Volterra — Monte Carlo & Statistical Inference](https://github.com/Saghaaah1/Lotka-Volterra-Stochastic-Dynamics-Extinction-Risk-Modeling) *(Shanghai Jiao Tong University - 2026)*
 
 Models predator–prey dynamics under random viral disturbances using **stochastic Lotka–Volterra systems**.
