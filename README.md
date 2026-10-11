@@ -10,7 +10,7 @@
 
 ### Featured Projects
 
-#### [Influencer or Observer — Hybrid AI for Social Influence Prediction](https://github.com/Saghaaah1/twitter-influencer-observer-camembert)
+#### [Influencer or Observer — Hybrid AI for Social Influence Prediction](https://github.com/Saghaaah1/twitter-influencer-observer-camembert) * (Shanghai Jiao Tong University - 2026) *
 
 A **hybrid AI pipeline** combining **Transformer-based NLP**, **transfer learning**, and **deep learning** to identify influencers among French Twitter accounts.
 Fuses **fine-tuned CamemBERT language representations** with **behavioral feature engineering** and **ensemble learning**, achieving a **0.857 public leaderboard score** with **leakage-free user-level validation**.
