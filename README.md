@@ -5,7 +5,6 @@
 **Head of Communication @ [KRYPTOSPHERE](https://kryptosphere.fr)**
 
 Machine Learning · Deep Learning · Computer Vision · Multimodal AI · RAG · Physics-Informed Neural Networks · AI Safety · AI for Healthcare
----
 
 ### Featured Projects
 
