@@ -15,6 +15,11 @@
 A **hybrid AI pipeline** combining **Transformer-based NLP**, **transfer learning**, and **deep learning** to identify influencers among French Twitter accounts.
 Fuses **fine-tuned CamemBERT language representations** with **behavioral feature engineering** and **ensemble learning**, achieving a **0.857 public leaderboard score** with **leakage-free user-level validation**.
 
+#### [Physics-Informed Neural Networks (PINNs) — AI for Fluid Flow Prediction](https://github.com/Saghaaah1/Physics-informed-neural-darcy) * (Shanghai Jiao Tong University - 2026) *
+
+A deep learning framework comparing **Physics-Informed Neural Networks (PINNs)** and **Fourier Neural Operators (FNO)** for **fluid pressure prediction in heterogeneous soil**.
+Explores physics-informed learning, neural operators, and zero-shot resolution transfer, evaluating prediction accuracy, computational cost, and robustness to varying permeability.
+
 #### [End-to-End-Data-Science-Pipeline](https://github.com/Saghaaah1/End-to-End-Data-Science-Pipeline) *(IMT Atlantique - 2025)*  
 A full **data science workflow** covering data collection, exploration, time-series analysis, feature engineering, **ML model optimization**, and **MLflow-based deployment**. 
 
