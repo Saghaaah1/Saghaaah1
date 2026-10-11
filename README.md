@@ -10,6 +10,11 @@
 
 ### Featured Projects
 
+### [Stochastic Lotka–Volterra — Monte Carlo & Statistical Inference]
+
+Models predator–prey dynamics under random viral disturbances using **stochastic Lotka–Volterra systems**.
+Combines **Laplace mixture modeling**, **Gaussian Mixture Models (EM)**, and **integrated Ornstein–Uhlenbeck processes** with **Monte Carlo simulation** to reconstruct hidden disturbances and assess population extinction risk.
+
 #### [Influencer or Observer — Hybrid AI for Social Influence Prediction](https://github.com/Saghaaah1/twitter-influencer-observer-camembert) *(Shanghai Jiao Tong University - 2026)*
 
 A **hybrid AI pipeline** combining **Transformer-based NLP**, **transfer learning**, and **deep learning** to identify influencers among French Twitter accounts.
