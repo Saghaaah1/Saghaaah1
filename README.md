@@ -10,6 +10,11 @@
 
 ### Featured Projects
 
+#### [Influencer or Observer — Hybrid AI for Social Influence Prediction](https://github.com/Saghaaah1/twitter-influencer-observer-camembert)
+
+A **hybrid AI pipeline** combining **Transformer-based NLP**, **transfer learning**, and **deep learning** to identify influencers among French Twitter accounts.
+Fuses **fine-tuned CamemBERT language representations** with **behavioral feature engineering** and **ensemble learning**, achieving a **0.857 public leaderboard score** with **leakage-free user-level validation**.
+
 #### [End-to-End-Data-Science-Pipeline](https://github.com/Saghaaah1/End-to-End-Data-Science-Pipeline) *(IMT Atlantique - 2025)*  
 A full **data science workflow** covering data collection, exploration, time-series analysis, feature engineering, **ML model optimization**, and **MLflow-based deployment**. 
 
