@@ -25,12 +25,12 @@ Combines representation learning analysis, **INLP debiasing**, and inference-tim
 A deep learning framework comparing **Physics-Informed Neural Networks (PINNs)** and **Fourier Neural Operators (FNO)** for **fluid pressure prediction in heterogeneous soil**.
 Explores physics-informed learning, neural operators, and zero-shot resolution transfer, evaluating prediction accuracy, computational cost, and robustness to varying permeability.
 
-#### [Probabilistic Machine Learning — Gaussian Processes & Graph Ranking] (https://github.com/Saghaaah1/Probabilit-s-pour-le-Machine-Learning) *(Shanghai Jiao Tong University - 2026)*
+#### [Probabilistic Machine Learning — Gaussian Processes & Graph Ranking](https://github.com/Saghaaah1/Probabilit-s-pour-le-Machine-Learning) *(Shanghai Jiao Tong University - 2026)*
 
 Explores **probabilistic modeling**, **Gaussian Process regression**, and Monte Carlo simulation through three applied projects.
 Predicts airfoil noise using kernel methods and hyperparameter optimization, identifies influential network nodes with PageRank and random walks, and investigates Gaussian convergence against theoretical bounds.
 
-#### [End-to-End Spam Detection — NLP & MLOps] (https://github.com/Saghaaah1/End-to-End-Spam-Detection-Pipeline-for-SMS-and-Email) *(IMT Atlantique - 2025)*
+#### [End-to-End Spam Detection — NLP & MLOps](https://github.com/Saghaaah1/End-to-End-Spam-Detection-Pipeline-for-SMS-and-Email) *(IMT Atlantique - 2025)*
 
 A modular **NLP pipeline** detecting **spam** in **SMS** and **E-mail** through text preprocessing, Bag-of-Words vectorization, and supervised learning.
 Integrates MLflow experiment tracking, cross-domain evaluation, and reproducible ML workflows to assess performance and generalization across messaging domains.
