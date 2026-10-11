@@ -4,7 +4,7 @@
 **Academic exchange @ Shanghai Jiao Tong University**, in partnership with **École Polytechnique**  
 **Head of Communication @ [KRYPTOSPHERE](https://kryptosphere.fr)**
 
-**Machine Learning · Deep Learning · Computer Vision · Multimodal AI · RAG · Physics-Informed Neural Networks · AI Safety · AI for Healthcare**  
+Machine Learning · Deep Learning · Computer Vision · Multimodal AI · RAG · Physics-Informed Neural Networks · AI Safety · AI for Healthcare
 ---
 
 ### Featured Projects
